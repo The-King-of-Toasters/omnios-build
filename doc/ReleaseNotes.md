@@ -4,30 +4,6 @@
 
 # Release Notes for OmniOSce v11 r151032
 
-## r151032ao (2020-08-10)
-Weekly release for w/c 10th of August 2020.
-> This is a non-reboot update
-
-# Security Fixes
-
-* OpenJDK 8 updated to 1.8.0.265, fixing multiple CVEs:
-  * [CVE-2020-14556](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14556)
-  * [CVE-2020-14577](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14577)
-  * [CVE-2020-14578](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14578)
-  * [CVE-2020-14579](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14579)
-  * [CVE-2020-14581](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14581)
-  * [CVE-2020-14583](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14583)
-  * [CVE-2020-14593](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14593)
-  * [CVE-2020-14621](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-14621)
-
-* Python 2.7 updated with fixes for:
-  * [CVE-2020-20907](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-20907)
-  * [CVE-2020-8492](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-8492)
-
-<br>
-
----
-
 ## r151032an (2020-08-04)
 Weekly release for w/c 3rd of August 2020.
 > This is a non-reboot update
